@@ -1,1 +1,1 @@
-# Firstgoogledesing
+# Tasarım temel olarak oluşturuldu.
